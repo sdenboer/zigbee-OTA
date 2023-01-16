@@ -2381,7 +2381,7 @@
         "manufacturerCode": 4476,
         "imageType": 4549,
         "sha512": "2274c7f57cf5c5e80eeb5f3c5bbe00dd2ccecb31350d0235b43776c751c27c34d91f0783ac4244518dc430c4e77e7611f1fef5346db9bafebec555cd5ea88321",
-        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Ikea/10005778-10.1-TRADFRI-onoff-shortcut-control-2.3.079.ota",
+        "url": "https://github.com/sdenboer/zigbee-OTA/raw/add-ikea-shortcut/images/Ikea/10005778-10.1-TRADFRI-onoff-shortcut-control-2.3.079.ota",
         "path": "images/Ikea/10005778-10.1-TRADFRI-onoff-shortcut-control-2.3.079.ota"
     }
 ]
