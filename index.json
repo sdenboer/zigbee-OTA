@@ -2374,5 +2374,14 @@
         "sha512": "1c8f98b906c857e9259db94b257cc818d0f929002802f068e46ec8fdb6d64d2fdae71d946af3582278377aa36afb04f214daba71ae13d1f14453f9bf94dcd339",
         "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Bosch/0x1209_0x300a_0x34031514.ota",
         "path": "images/Bosch/0x1209_0x300a_0x34031514.ota"
+    },
+    {
+        "fileVersion": 587699761,
+        "fileSize": 192136,
+        "manufacturerCode": 4476,
+        "imageType": 4549,
+        "sha512": "2274c7f57cf5c5e80eeb5f3c5bbe00dd2ccecb31350d0235b43776c751c27c34d91f0783ac4244518dc430c4e77e7611f1fef5346db9bafebec555cd5ea88321",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Ikea/10005778-10.1-TRADFRI-onoff-shortcut-control-2.3.079.ota",
+        "path": "images/Ikea/10005778-10.1-TRADFRI-onoff-shortcut-control-2.3.079.ota"
     }
 ]
